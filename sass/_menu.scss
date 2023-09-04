@@ -1,0 +1,24 @@
+@use "vars";
+
+.menu {
+  padding: 90px 16px;
+  &__content {
+    max-width: vars.$contentMaxWidth;
+    margin: 0 auto;
+    display: flex;
+  }
+  &__wrap {
+    width: 50%;
+    background-color: pink;
+  }
+
+  &__genreTitle {
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Arial;
+    line-height: 1.12;
+    text-transform: uppercase;
+    border-bottom: 6px solid #e03131;
+    display: inline-block;
+  }
+}
