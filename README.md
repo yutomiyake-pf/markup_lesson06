@@ -1,5 +1,7 @@
 # markup_lesson06
 
+## TODO 制作途中..
+
 ## pc
 ![code-jump com_demo_html_store_](https://github.com/yutomiyake-pf/markup_lesson06/assets/88872202/19b0f6b6-b1a9-4eca-9ef6-4659fda6043c)
 <br />
